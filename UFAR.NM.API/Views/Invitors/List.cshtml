@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<UFAR.NM.API.Models.Entites.Invations>
+<div class="form-container">
+    <h1 style="color: #4CAF50;"> Inventers</h1>
+    <table class="table invitation_list">
+        <thead>
+            <tr>
+                <th> No</th>
+                <th> Name</th>
+                <th> Email</th>
+                <th> </th>
+            </tr>
+        </thead>
+        <tbody>
+
+
+            @foreach (var invations in Model.Select((value, i) => new { i, value }))
+            {
+                var value = invations.value;
+                var index = invations.i;
+
+
+                <tr>
+                    <td> @(index + 1) </td>
+                    <td> @value.Name </td>
+                    <td> @value.Email </td>
+                    <td>
+                        <a class="btn btn-primary" asp-controller="invitors" asp-action="Edit" asp-route-id="@value.Id">Edit</a>
+
+                    </td>
+                </tr>
+
+            }
+
+           
+        </tbody>
+    </table>

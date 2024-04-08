@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model UFAR.NM.API.Models.Entites.Invations
+
+
+<div class="form-container">
+    <h1 style="color: #4CAF50;"> Edit Inviters</h1>
+    @if (Model is null)
+    {
+        <p> No student was fonud with this Id</p>
+    }
+    @if (Model is not null)
+    {
+        <form method="post" asp-action="Edit">
+            <input type="hidden" asp-for="Id" />
+            <div asp-validation-summary="All"></div>
+
+            <label class="form-label">Name</label>
+            <input type="text"  asp-for="Name"/>
+
+            <label class="form-label">Email</label>
+            <input type="text" asp-for="Email" />
+
+            <label class="form-label">Phone</label>
+            <input type="text" asp-for="Phone" />
+
+            <input type="submit" class="btn btn-success" value="Save">
+
+            <button type="submit" class="btn btn-danger ms-3" asp-action="Delete" asp-controller="invitors"> Delete </button>
+        </form>
+    }
+</div>

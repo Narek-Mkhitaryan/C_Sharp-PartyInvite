@@ -1,0 +1,300 @@
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\appsettings.json
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.staticwebassets.runtime.json
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.exe
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.deps.json
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.runtimeconfig.json
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.pdb
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.AssemblyReference.cache
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.AssemblyInfoInputs.cache
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.AssemblyInfo.cs
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.CoreCompileInputs.cache
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.RazorAssemblyInfo.cache
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.RazorAssemblyInfo.cs
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.UFAR.NM.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.build.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\scopedcss\bundle\UFAR.NM.API.styles.css
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\scopedcss\projectbundle\UFAR.NM.API.bundle.scp.css
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.CopyComplete
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\refint\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.pdb
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.genruntimeconfig.cache
+C:\Users\User_\Desktop\UFAR.NM.API\UFAR.NM.API\obj\Debug\net7.0\ref\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\appsettings.json
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.staticwebassets.runtime.json
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.exe
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.deps.json
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.runtimeconfig.json
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.pdb
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.AssemblyReference.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.AssemblyInfoInputs.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.AssemblyInfo.cs
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.CoreCompileInputs.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.RazorAssemblyInfo.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.RazorAssemblyInfo.cs
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.UFAR.NM.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.build.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\scopedcss\bundle\UFAR.NM.API.styles.css
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\scopedcss\projectbundle\UFAR.NM.API.bundle.scp.css
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.CopyComplete
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\refint\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.pdb
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.genruntimeconfig.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Copy\UFAR.NM.API\obj\Debug\net7.0\ref\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\appsettings.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.staticwebassets.runtime.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.exe
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.deps.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.runtimeconfig.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.pdb
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.AssemblyReference.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.AssemblyInfoInputs.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.AssemblyInfo.cs
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.CoreCompileInputs.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.RazorAssemblyInfo.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.RazorAssemblyInfo.cs
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.UFAR.NM.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.build.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\scopedcss\bundle\UFAR.NM.API.styles.css
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\scopedcss\projectbundle\UFAR.NM.API.bundle.scp.css
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.CopyComplete
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\refint\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.pdb
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.genruntimeconfig.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final - Copy - Copy\UFAR.NM.API\obj\Debug\net7.0\ref\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\appsettings.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.staticwebassets.runtime.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.exe
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.deps.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.runtimeconfig.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\UFAR.NM.API.pdb
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.AssemblyReference.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.AssemblyInfoInputs.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.AssemblyInfo.cs
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.CoreCompileInputs.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.RazorAssemblyInfo.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.RazorAssemblyInfo.cs
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.UFAR.NM.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.build.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UFAR.NM.API.props
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\scopedcss\bundle\UFAR.NM.API.styles.css
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\scopedcss\projectbundle\UFAR.NM.API.bundle.scp.css
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.csproj.CopyComplete
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\refint\UFAR.NM.API.dll
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.pdb
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\UFAR.NM.API.genruntimeconfig.cache
+C:\Users\User_\Desktop\UFAR.NM.API - Final -copy - Copy\UFAR.NM.API\obj\Debug\net7.0\ref\UFAR.NM.API.dll

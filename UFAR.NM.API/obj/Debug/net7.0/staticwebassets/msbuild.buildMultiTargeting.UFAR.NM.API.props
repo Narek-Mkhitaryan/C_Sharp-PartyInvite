@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UFAR.NM.API.props" />
+</Project>
