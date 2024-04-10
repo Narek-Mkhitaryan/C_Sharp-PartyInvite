@@ -1,27 +1,37 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Title -->
     <title>@ViewData["Title"] - UFAR.NM.API</title>
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Custom CSS -->
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
 <body>
     <div class="container">
+        <!-- Menu -->
         <div class="menu">
             <h2>Menu</h2>
             <ul>
+                <!-- Menu items -->
                 <li><a asp-area="" asp-controller="invitors" asp-action="List">All Inventers</a></li>
                 <li><a asp-area="" asp-controller="invitors" asp-action="add">Add</a></li>
             </ul>
         </div>
 
+        <!-- Main content -->
         @RenderBody()
     </div>
+    <!-- JavaScript dependencies -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom JavaScript -->
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <!-- Additional scripts section -->
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
